@@ -1,0 +1,16 @@
+{
+"companyName": "Terminal",
+"productName": "Terminal",
+"productVersion": "0.1",
+"dataUrl": "2021.10.03 WebGl.data.unityweb",
+"wasmCodeUrl": "2021.10.03 WebGl.wasm.code.unityweb",
+"wasmFrameworkUrl": "2021.10.03 WebGl.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.11f1"
+}
